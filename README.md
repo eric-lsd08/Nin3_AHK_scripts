@@ -6,7 +6,7 @@ Background control
 ## Platform
 AutoHotkey Version 1.1.36.02 or above
 
-Recommend Microsoft Edge 85 or above
+Recommend Browser: Microsoft Edge 85 or above
 
 ## General key functions
 Key | Description 
