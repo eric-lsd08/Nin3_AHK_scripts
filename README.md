@@ -1,5 +1,5 @@
 # Nin3_AHK_scripts
-AHK scripts for tasks automatiom in web page flash game Nindu3
+AHK scripts for tasks automatiom in web page flash game Nin3
 
 Background control
 
